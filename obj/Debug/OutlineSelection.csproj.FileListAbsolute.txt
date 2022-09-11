@@ -1,0 +1,20 @@
+C:\Users\BlackBow\source\repos\OutlineSelection\bin\Debug\OutlineSelection.exe.config
+C:\Users\BlackBow\source\repos\OutlineSelection\bin\Debug\OutlineSelection.exe
+C:\Users\BlackBow\source\repos\OutlineSelection\bin\Debug\OutlineSelection.pdb
+C:\Users\BlackBow\source\repos\OutlineSelection\obj\Debug\OutlineSelection.csprojAssemblyReference.cache
+C:\Users\BlackBow\source\repos\OutlineSelection\obj\Debug\OutlineSelection.Form1.resources
+C:\Users\BlackBow\source\repos\OutlineSelection\obj\Debug\OutlineSelection.Properties.Resources.resources
+C:\Users\BlackBow\source\repos\OutlineSelection\obj\Debug\OutlineSelection.csproj.GenerateResource.cache
+C:\Users\BlackBow\source\repos\OutlineSelection\obj\Debug\OutlineSelection.csproj.CoreCompileInputs.cache
+C:\Users\BlackBow\source\repos\OutlineSelection\obj\Debug\OutlineSelection.exe
+C:\Users\BlackBow\source\repos\OutlineSelection\obj\Debug\OutlineSelection.pdb
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\bin\Debug\OutlineSelection.exe.config
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\bin\Debug\OutlineSelection.exe
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\bin\Debug\OutlineSelection.pdb
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\obj\Debug\OutlineSelection.csprojAssemblyReference.cache
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\obj\Debug\OutlineSelection.Form1.resources
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\obj\Debug\OutlineSelection.Properties.Resources.resources
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\obj\Debug\OutlineSelection.csproj.GenerateResource.cache
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\obj\Debug\OutlineSelection.csproj.CoreCompileInputs.cache
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\obj\Debug\OutlineSelection.exe
+C:\Users\BlackBow\Desktop\Лабы и  практика\4 семестр\Практика\OutlineSelection\OutlineSelection\obj\Debug\OutlineSelection.pdb
